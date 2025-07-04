@@ -1,0 +1,211 @@
+[ {
+  "title" : "The Two Towers",
+  "author" : "J. R. R. Tolkien",
+  "genres" : [ "Fanasty", "Fiction" ],
+  "publicationDate" : "11/11/1954",
+  "description" : "A fanasty novel set in Middle-Earth.",
+  "isbn" : "978-0345339713"
+}, {
+  "title" : "The Return of the King",
+  "author" : "J. R. R. Tolkien",
+  "genres" : [ "Fanasty", "Fiction" ],
+  "publicationDate" : "10/20/1955",
+  "description" : "A fanasty novel set in Middle-Earth.",
+  "isbn" : "978-0358380252"
+}, {
+  "title" : "The Fellowship of the Ring",
+  "author" : "J. R. R. Tolkien",
+  "genres" : [ "Fanasty", "Fiction" ],
+  "publicationDate" : "07/29/1954",
+  "description" : "A fanasty novel set in Middle-Earth.",
+  "isbn" : "978-0345339706"
+}, {
+  "title" : "The Three-Body Problem",
+  "author" : "Cixin Liu",
+  "genres" : [ "Sci-Fi", "Fiction", "Alternate History", "Alien" ],
+  "publicationDate" : "11/11/2014",
+  "description" : "Aliens from a nearby star system recieve a signal from earch and are sending an invasion fleet which will take 400 years to get to Earth.",
+  "isbn" : "978-0765382030"
+}, {
+  "title" : "The Dark Forest",
+  "author" : "Cixin Liu",
+  "genres" : [ "Sci-Fi", "Fiction", "Alternate History", "Alien" ],
+  "publicationDate" : "08/11/2015",
+  "description" : "Humainty is preparing to face the Alien threat.",
+  "isbn" : "978-0765386694"
+}, {
+  "title" : "Death's end",
+  "author" : "Cixin Liu",
+  "genres" : [ "Sci-Fi", "Fiction", "Alternate History", "Alien" ],
+  "publicationDate" : "09/20/2016",
+  "description" : "Mutually assured destruction has led to decades of peace between humainty and Trisolarins, but a new force is awakening and this delicate balance can no longer hold...",
+  "isbn" : "978-1358380252"
+}, {
+  "title" : "Moby Dick",
+  "author" : "Herman Melville",
+  "genres" : [ "Revenge", "Fiction", "Classic" ],
+  "publicationDate" : "11/14/1851",
+  "description" : "Captain Ahab's quest to avenge the whale that 'reaped' his leg.",
+  "isbn" : "978-1853260087"
+}, {
+  "title" : "Oliver Twist",
+  "author" : "Charles Dickens",
+  "genres" : [ "Fiction", "Drama", "Historical", "Classic" ],
+  "publicationDate" : "04/15/1839",
+  "description" : "The story about a poor oprhpan named Oliver Twist born in a workhouse.",
+  "isbn" : "978-0141192499"
+}, {
+  "title" : "Solaris",
+  "author" : "Stanislaw Lem",
+  "genres" : [ "Sci-Fi", "Fiction", "Existential" ],
+  "publicationDate" : "01/01/1961",
+  "description" : "When Kris Kelvin arrives at the planet Solaris to study the ocean that covers its surface, he finds himself confronting a painful memory embodied in the physical likeness of a past lover.",
+  "isbn" : "978-0156027601"
+}, {
+  "title" : "The Catcher in the Rye",
+  "author" : "J. D. Salinger",
+  "genres" : [ "Fiction", "Drama", "Coming of Age" ],
+  "publicationDate" : "07/16/1951",
+  "description" : "Holden narrates the story of a couple of days in his sixteen-year-old life, just after he's been expelled from prep school.",
+  "isbn" : "978-0316769174"
+}, {
+  "title" : "Foundation",
+  "author" : "Issac Asimov",
+  "genres" : [ "Sci-Fi", "Fiction", "Space Opera" ],
+  "publicationDate" : "08/30/1951",
+  "description" : "For tweleve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future - to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years",
+  "isbn" : "978-0553382570"
+}, {
+  "title" : "I Robot",
+  "author" : "Issac Asimov",
+  "genres" : [ "Sci-Fi", "Fiction" ],
+  "publicationDate" : "12/02/1950",
+  "description" : "An adventure into a not-so-distant future where man and machine, struggle to redefine life, love, and consciousness - and where the stakes are nothing less than survival.",
+  "isbn" : "978-0553382563"
+}, {
+  "title" : "Great Expectations",
+  "author" : "Charles Dickens",
+  "genres" : [ "Fiction", "Classic", "Drama" ],
+  "publicationDate" : "10/30/1861",
+  "description" : "Pip is a poor ophan, a boy without \"expectations\" being raised by his unkind sister and her blacksmith husband in a small home on the marshes of Kent.",
+  "isbn" : "978-1435172616"
+}, {
+  "title" : "The Moon is a Harsh Mistress",
+  "author" : "Robert A. Heinlein",
+  "genres" : [ "Sci Fi", "Politics" ],
+  "publicationDate" : "06/02/1966",
+  "description" : "It is a tale of revolution, of the rebellion of a former penal colony on the Moon against its masters on the Earth.",
+  "isbn" : "978-0440001355"
+}, {
+  "title" : "Fahrenheit 451",
+  "author" : "Ray Bradbury",
+  "genres" : [ "Sci-Fi", "Dystopia", "Fiction" ],
+  "publicationDate" : "10/19/1953",
+  "description" : "Guy Montag is a fireman. His job is to destroy the most illegal of commodities, the printed book.",
+  "isbn" : "978-1451673319"
+}, {
+  "title" : "Brave New World",
+  "author" : "Aldous Huxley",
+  "genres" : [ "Sci-Fi", "Dystopia", "Fiction" ],
+  "publicationDate" : "01/01/1932",
+  "description" : "Brave New World is a searching vision of an unequal, technologically-advanced future where humans are genetically bred, socially indoctrinated, and pharmaceutically anesthetized to passively uphold an authoritarian ruling order.",
+  "isbn" : "978-0061767647"
+}, {
+  "title" : "1984",
+  "author" : "George Orwell",
+  "genres" : [ "Sci-Fi", "Dystopia", "Fiction" ],
+  "publicationDate" : "06/08/1949",
+  "description" : "A masterpiece of rebellion and imprisonment where war is peace, freedom is slavery, and Big Brother is watching.",
+  "isbn" : "978-1328869333"
+}, {
+  "title" : "Anatomy of the State",
+  "author" : "Murry N. Rothbard",
+  "genres" : [ "Non-Fiction", "Politcal", "Economics", "Philosophy" ],
+  "publicationDate" : "01/01/1974",
+  "description" : "This gives a succinct account of Rothbard's view of the state.",
+  "isbn" : "978-1607967729"
+}, {
+  "title" : "The Communist Manifesto",
+  "author" : "Karl Marx and Friedrich Engles",
+  "genres" : [ "Non-Fiction", "Politcal", "Economics", "Philosophy" ],
+  "publicationDate" : "02/21/1848",
+  "description" : "The Communist Manifesto is a condensed and incisive account of the worldview Marx and Engles developed during their hetic intellectual and political collaboration.",
+  "isbn" : "978-0140447576"
+}, {
+  "title" : "The Wealth of Nations",
+  "author" : "Adam Smith",
+  "genres" : [ "Non-Fiction", "Politcal", "Economics", "Philosophy" ],
+  "publicationDate" : "03/09/1776",
+  "description" : "The foundation of modern economic though and remains the single most important account of the rise of, and the principles behind, modern capitalism.",
+  "isbn" : "978-0226763749"
+}, {
+  "title" : "Do Androids Dream of Electric Sheep?",
+  "author" : "Philp K. Dick",
+  "genres" : [ "Sci fi", "Dystopia", "Cyberpunk" ],
+  "publicationDate" : "01/01/1968",
+  "description" : "It was January 2021, and Rick Deckard had a license to kill. Somewhere among the hordes of humans out there, lurked serveral rogue androids.",
+  "isbn" : "978-1524796976"
+}, {
+  "title" : "The Marian Chronicles",
+  "author" : "Ray Bradbury",
+  "genres" : [ "Sci fi", "Fiction" ],
+  "publicationDate" : "05/04/1950",
+  "description" : "The Martian Chronicles tells the story of humanity's repeated attempts to colonize the red planet.",
+  "isbn" : "978-0062079930"
+}, {
+  "title" : "One Flew Over the Cuckoo's Nest",
+  "author" : "Ken Kesey",
+  "genres" : [ "Drama", "Fiction", "Psychology" ],
+  "publicationDate" : "02/01/1962",
+  "description" : "Tyrannical Nurse Ratched rules her ward in an Oregon State mental hospital with a strict and unbending routine, unopposed by her patients, who remain cowed by mind-numbing medication and the threat of electric shock therapy.",
+  "isbn" : "978-0451163967"
+}, {
+  "title" : "Undaunted Courage",
+  "author" : "Stephen E. Ambrose",
+  "genres" : [ "Non-fiction", "History", "Biography", "American" ],
+  "publicationDate" : "02/15/1996",
+  "description" : "In 1803 President Thomas Jefferson selected his personal secretary, Captain Meriwether Lewis, to lead a pioneeing voyage across the Great Plains and into the Rockeis.",
+  "isbn" : "978-0684826974"
+}, {
+  "title" : "Dune",
+  "author" : "Frank Herbert",
+  "genres" : [ "Sci-Fi", "Fiction" ],
+  "publicationDate" : "06/01/1965",
+  "description" : "Set on the desert planet of Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the \"spice\" melange, a druge capable of extending life and enhancing consciousness.",
+  "isbn" : "978-0593099322"
+}, {
+  "title" : "No Longer Human",
+  "author" : "Osamu Dazai",
+  "genres" : [ "Fiction", "Philosophy", "Drama" ],
+  "publicationDate" : "01/01/1948",
+  "description" : "No Longer Human tells the poignant and fascinating story of a young man who is caught between the breakup of the traditions of a northern Japanese aristocratic family and the impact of Western ideas.",
+  "isbn" : "978-0811232432"
+}, {
+  "title" : "All Quiet on the Western Front",
+  "author" : "Erich Maria Remarque",
+  "genres" : [ "Fiction", "War", "Historical" ],
+  "publicationDate" : "01/01/1928",
+  "description" : "In 1914, a room full of German schoolboys, fresh-faced and idealistic, are goaded by their schoolmaster to troop off to the 'glorious war'.",
+  "isbn" : "978-0449213940"
+}, {
+  "title" : "The Adventures of Huckleberry Finn",
+  "author" : "Mark Twain",
+  "genres" : [ "Fiction", "Drama", "Coming of Age" ],
+  "publicationDate" : "02/18/1884",
+  "description" : "A nineteenth-century boy from a Mississippi River town recounts his adventures as he travels down the river with a runaway slave.",
+  "isbn" : "978-1435172753"
+}, {
+  "title" : "The Hobbit",
+  "author" : "J. R. R. Tolkien",
+  "genres" : [ "Fanasty", "Fiction" ],
+  "publicationDate" : "09/21/1937",
+  "description" : "A fanasty novel set in Middle-Earth.",
+  "isbn" : "978-0345339683"
+}, {
+  "title" : "Death's end",
+  "author" : "Cixin Liu",
+  "genres" : [ "Sci-Fi", "Fiction", "Alternate History", "Alien" ],
+  "publicationDate" : "09/20/2016",
+  "description" : "Mutually assured destruction has led to decades of peace between humainty and Trisolarins, but a new force is awakening and this delicate balance can no longer hold...",
+  "isbn" : "978-0765386632"
+} ]

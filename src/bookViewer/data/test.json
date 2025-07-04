@@ -1,0 +1,36 @@
+[ {
+  "title" : "The Hobbit",
+  "author" : "J. R. R. Tolkien",
+  "genres" : [ "Fanasty", "Fiction" ],
+  "publicationDate" : "09/21/1937",
+  "description" : "A fanasty novel set in Middle-Earth.",
+  "isbn" : "978-0345339683"
+}, {
+  "title" : "The Fellowship of the Ring",
+  "author" : "J. R. R. Tolkien",
+  "genres" : [ "Fanasty", "Fiction" ],
+  "publicationDate" : "07/29/1954",
+  "description" : "A fanasty novel set in Middle-Earth.",
+  "isbn" : "978-0345339706"
+}, {
+  "title" : "The Two Towers",
+  "author" : "J. R. R. Tolkien",
+  "genres" : [ "Fanasty", "Fiction" ],
+  "publicationDate" : "11/11/1954",
+  "description" : "A fanasty novel set in Middle-Earth.",
+  "isbn" : "978-0345339713"
+}, {
+  "title" : "The Return of the King",
+  "author" : "J. R. R. Tolkien",
+  "genres" : [ "Fanasty", "Fiction" ],
+  "publicationDate" : "10/20/1955",
+  "description" : "A fanasty novel set in Middle-Earth.",
+  "isbn" : "978-0358380252"
+}, {
+  "title" : ";The Moon is a Harsh Mistress",
+  "authorName" : "Robert A. Heinlen",
+  "genres" : [ "Sci Fi" ],
+  "publicationDate" : "",
+  "description" : "A good book",
+  "isbn" : "978-0440001355"
+} ]
